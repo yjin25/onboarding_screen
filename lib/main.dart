@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       // 최초실행
       // 온보딩 페이지로 넘어감
       activity = OnBoardingPage(title: '최초실행 튜토리얼');
-      setFirst();
+      setFirst(); // ?
     } else {
       //최초실행
 
